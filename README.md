@@ -1,3 +1,7 @@
-### Hi there 👋, I'm Bravco
-![Most used languages](https://github-stats.liuli.lol/api/top-langs/?username=Bravco&layout=compact&theme=vue-dark)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bravco&theme=vue-dark)
+<h1>Hi there 👋, I'm Bravco</h1>
+<div>
+  <img align="center" src="https://github-stats.liuli.lol/api/top-langs/?username=Bravco&layout=compact&theme=vue-dark"/>
+</div>
+<div>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bravco&theme=vue-dark"/>
+</div>
