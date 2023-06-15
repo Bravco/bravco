@@ -1,7 +1,7 @@
 ## 💪 How much do I contribute ?
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bravco&theme=transparent&hide_border=true)
 
-## 🗣️ What languages do I speak the most ?
+## 📢 What languages do I speak the most ?
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravco&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌞 Am I coding on a daily basis ?
