@@ -8,7 +8,7 @@
 <img src="https://wakatime.com/share/@35ca0d1a-39c9-4e3d-a567-54cbeb048e9a/4e06addc-626c-4819-9f41-67ddd7981c3e.svg" height="400"/>
 
 ## 🧰 What is my toolkit roughly made of ?
-![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,blender,c,cs,cpp,css,dart,bots,django,figma,firebase,flutter,gamemakerstudio,git,github,gradle,godot,html,ai,js,linux,md,mysql,nodejs,nuxtjs,ps,powershell,py,sqlite,stackoverflow,supabase,svg,threejs,unity,visualstudio,vite,vscode,vue&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,blender,c,cs,cpp,css,dart,bots,django,figma,firebase,flutter,gamemakerstudio,git,github,gradle,godot,html,ai,js,linux,md,mysql,nodejs,nuxtjs,ps,postgres,powershell,py,sqlite,stackoverflow,supabase,svg,threejs,unity,visualstudio,vite,vscode,vue&theme=dark)
 
 ## ☕ Where to find me ?
 ![Discord](https://dcbadge.vercel.app/api/shield/574957089156366346)
