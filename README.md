@@ -4,9 +4,6 @@
 ## 📢 What languages do I speak the most ?
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravco&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🌞 Am I coding on a daily basis ?
-<img src="https://wakatime.com/share/@35ca0d1a-39c9-4e3d-a567-54cbeb048e9a/4e06addc-626c-4819-9f41-67ddd7981c3e.svg" height="400"/>
-
 ## 🧰 What have I used before ?
 ![My Skills](https://skillicons.dev/icons?i=androidstudio,bash,blender,c,cs,cpp,css,dart,bots,django,figma,firebase,flutter,gamemakerstudio,git,github,gradle,godot,html,ai,js,linux,md,mysql,netlify,nodejs,nuxtjs,ps,postgres,powershell,py,sqlite,stackoverflow,supabase,svg,ts,unity,visualstudio,vite,vscode,vue,webflow&theme=dark)
 
