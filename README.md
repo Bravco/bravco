@@ -1,3 +1,6 @@
+# Hey there! 👋
+**I'm Andrej** - a creative developer who turns ideas into visually captivating and functional apps.
+
 ## 🧰 What do I use the most?
 ![My Skills](https://skillicons.dev/icons?i=ts,nuxtjs,flutter,py,godot&theme=dark)
 
