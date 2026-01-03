@@ -1,9 +1,3 @@
-## 💪 How much do I contribute ?
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bravco&theme=transparent&hide_border=true)
-
-## 📢 What languages do I speak the most ?
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bravco&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## 🧰 What have I used before ?
 ![My Skills](https://skillicons.dev/icons?i=firebase,flutter,godot,nuxtjs,py,sqlite,supabase,ts,vue&theme=dark)
 
